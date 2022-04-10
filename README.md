@@ -1,5 +1,5 @@
 # Looping Lab
-
+`Thank you, ${names[i]}, for the wonderful ${event} gift!`
 ## Learning Goals
 
 - Build a `for` loop.
